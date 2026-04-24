@@ -1,0 +1,7 @@
+{
+  "optuna_search_seed": 42,
+  "final_run_seeds": [
+    3
+  ],
+  "final_epochs": 100
+}

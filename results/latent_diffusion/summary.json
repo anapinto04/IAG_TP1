@@ -1,0 +1,9 @@
+{
+    "model_type": "latent_diffusion",
+    "n_runs": 1,
+    "fid_mean": 382.0562744140625,
+    "fid_std": 0.0,
+    "kid_mean_mean": 0.4368273913860321,
+    "kid_mean_std": 0.0,
+    "kid_std_mean": 0.012264723889529705
+}

@@ -1,0 +1,9 @@
+{
+    "metrics": {
+        "fid": 382.0562744140625,
+        "kid_mean": 0.4368273913860321,
+        "kid_std": 0.012264723889529705,
+        "seed": 2,
+        "model_type": "latent_diffusion"
+    }
+}

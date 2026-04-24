@@ -1,0 +1,9 @@
+{
+    "metrics": {
+        "fid": 147.4102020263672,
+        "kid_mean": 0.15230436623096466,
+        "kid_std": 0.010492230765521526,
+        "seed": 2,
+        "model_type": "pixel_diffusion"
+    }
+}

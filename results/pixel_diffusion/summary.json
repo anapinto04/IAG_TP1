@@ -1,0 +1,9 @@
+{
+    "model_type": "pixel_diffusion",
+    "n_runs": 1,
+    "fid_mean": 147.4102020263672,
+    "fid_std": 0.0,
+    "kid_mean_mean": 0.15230436623096466,
+    "kid_mean_std": 0.0,
+    "kid_std_mean": 0.010492230765521526
+}
